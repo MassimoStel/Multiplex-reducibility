@@ -1,3 +1,6 @@
+![Example-of-a-multiplex-lexical-network-Nodes-represent-words-and-can-be-either-connected](https://github.com/user-attachments/assets/f2bc3910-472c-4e42-be38-d3cd5be53d4c)
+
+
 This is an updated version of multired-0.1, as originally implemented by Vincenzo Nicosia in https://github.com/KatolaZ/multired
 
 This code can be a valid alternative to using R packages for checking multiplex reducibility structure in networks with more than 10K nodes.
